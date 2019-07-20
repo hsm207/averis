@@ -1,6 +1,9 @@
 ---
 title: "Averis AI/Data Science Assesment Solution"
 output:
+  pdf_document:
+    df_print: paged
+    toc: yes
   html_document:
     df_print: paged
     toc: yes
